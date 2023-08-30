@@ -1,0 +1,18 @@
+div{
+  width: 400px;
+  border: solid;
+  height: 90px;
+  border-width: 1px;
+}
+p{
+  font-family: arial;
+  font-size: 13px;
+  margin-left: 10px;
+}
+.yes{
+  margin-right: 3px;
+  margin-left: 10px;
+}
+.no{
+
+}

@@ -1,0 +1,22 @@
+div{
+  width: 400px;
+  height: 90px;
+  background-color: black;
+}
+.music
+{
+  color: white;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 18px;
+  padding-left: 10px;
+  padding-top: 15px;
+  margin-bottom: 10px;
+}
+.add{
+  color:gray;
+  width: 300px;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-top:0;
+}

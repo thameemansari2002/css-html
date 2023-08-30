@@ -1,0 +1,16 @@
+img{
+  width: 200px;
+  display: block;
+  margin-left: 90px;
+}
+input{
+  width: 400px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.15);
+  margin-top: 5px;
+  border-width: 1px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  border-radius: 200px;
+}
